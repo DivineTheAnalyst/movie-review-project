@@ -1,0 +1,5 @@
+*.tfvars
+*.tfstate
+divine1amdari/movie-review-project/terraform/divine-amdari-project-972a5bdf2273.json
+*.lock.hcl
+*.terraform/
